@@ -18,17 +18,7 @@ A simple console-based Tic-Tac-Toe game built in Java for two players.
     ```bash
     java Main
     ```
-
-## Example Gameplay
-
-  | |
-  | |
-  | |
-Player X enter: 0 0
- X | |
-   | |
-   | |
-
+<pre> ## Example Gameplay ``` | | | | | | Player X enter: 0 0 X | | | | | | ``` </pre>
 ## Requirements
 - Java 8 or later
 
